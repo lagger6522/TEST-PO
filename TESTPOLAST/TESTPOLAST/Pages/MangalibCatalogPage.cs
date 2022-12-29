@@ -22,7 +22,7 @@ namespace TESTPOLAST.Pages
         [FindsBy(How = How.XPath, Using = "//*[@id='main-page']/div/div/div[2]/div[2]/div[3]/div[4]/div/div[58]/span[2]")]                                         
         public IWebElement TagsOfMonstergirl { get; set; }
 
-        [FindsBy(How = How.XPath, Using = "//*[@id='main-page']/div/div/div[2]/div[2]/div[3]/div[4]/div/div[58]/span[2]")]
+        [FindsBy(How = How.XPath, Using = "//*[@id='main-page']/div/div/div[2]/div[3]/div[4]/button")]
         public IWebElement СhooseOfComedy { get; set; }
 
         [FindsBy(How = How.XPath, Using = "//*[@id='main-page']/div/div/div[2]/div[2]/div[4]")]

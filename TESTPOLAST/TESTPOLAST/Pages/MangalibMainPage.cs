@@ -38,8 +38,11 @@ namespace TESTPOLAST.Pages
         [FindsBy(How = How.XPath, Using = "//*[@id='site_type']/body/div[1]/div/div/div[3]")]
         public IWebElement ResultSearchingClick { get; set; }
 
+        [FindsBy(How = How.XPath, Using = "//*[@id='main-page']/div/div/div[1]/div/section[1]/div/a")]
+        public IWebElement AllNews { get; set; }
 
+        [FindsBy(How = How.XPath, Using = "//*[@id='main-page']/div/div[2]/div[7]/h2/a")]
+        public IWebElement TransferTitle { get; set; }
 
-        
     }
 }
