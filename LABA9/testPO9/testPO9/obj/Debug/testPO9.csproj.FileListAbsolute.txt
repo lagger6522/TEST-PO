@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\testPO9\testPO9\bin\Debug\testPO9.exe.config
+C:\Users\USER\source\repos\testPO9\testPO9\bin\Debug\testPO9.exe
+C:\Users\USER\source\repos\testPO9\testPO9\bin\Debug\testPO9.pdb
+C:\Users\USER\source\repos\testPO9\testPO9\obj\Debug\testPO9.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\testPO9\testPO9\obj\Debug\testPO9.Form1.resources
+C:\Users\USER\source\repos\testPO9\testPO9\obj\Debug\testPO9.Properties.Resources.resources
+C:\Users\USER\source\repos\testPO9\testPO9\obj\Debug\testPO9.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\testPO9\testPO9\obj\Debug\testPO9.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\testPO9\testPO9\obj\Debug\testPO9.exe
+C:\Users\USER\source\repos\testPO9\testPO9\obj\Debug\testPO9.pdb
+C:\Users\USER\source\repos\testPO9\testPO9\obj\Debug\testPO9.csproj.CopyComplete
+C:\Users\USER\source\repos\testPO9\testPO9\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\USER\source\repos\testPO9\testPO9\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\USER\source\repos\testPO9\testPO9\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\USER\source\repos\testPO9\testPO9\bin\Debug\WebDriver.dll
+C:\Users\USER\source\repos\testPO9\testPO9\bin\Debug\SeleniumExtras.PageObjects.dll

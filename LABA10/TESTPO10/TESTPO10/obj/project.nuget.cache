@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ROHVTafUZlJvtkus9cgv4Z/mObj7euyEOsBEoKHxz2PmRDFnkVVBUuE84ypWm0b7qGqHvU4FPex5+SlRwkxxVg==",
+  "dgSpecHash": "AI6emR635CJx0mYB5d92tItKWr1G4VPCMApVZOz3kY+GrNUKrRR7c4oF7IF2QN230pdxRFDiC+Ogp2unPbJHsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\TESTPO10\\TESTPO10\\TESTPO10.csproj",
+  "projectFilePath": "D:\\Study\\Тестирование ПО\\TEST-PO\\LABA10\\TESTPO10\\TESTPO10\\TESTPO10.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\dotnetseleniumextras.pageobjects.core\\4.3.0\\dotnetseleniumextras.pageobjects.core.4.3.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\TESTPO10\\TESTPO10\\TESTPO10.csproj": {}
+    "D:\\Study\\Тестирование ПО\\TEST-PO\\LABA10\\TESTPO10\\TESTPO10\\TESTPO10.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\TESTPO10\\TESTPO10\\TESTPO10.csproj": {
+    "D:\\Study\\Тестирование ПО\\TEST-PO\\LABA10\\TESTPO10\\TESTPO10\\TESTPO10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\TESTPO10\\TESTPO10\\TESTPO10.csproj",
+        "projectUniqueName": "D:\\Study\\Тестирование ПО\\TEST-PO\\LABA10\\TESTPO10\\TESTPO10\\TESTPO10.csproj",
         "projectName": "TESTPO10",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\TESTPO10\\TESTPO10\\TESTPO10.csproj",
+        "projectPath": "D:\\Study\\Тестирование ПО\\TEST-PO\\LABA10\\TESTPO10\\TESTPO10\\TESTPO10.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\TESTPO10\\TESTPO10\\obj\\",
+        "outputPath": "D:\\Study\\Тестирование ПО\\TEST-PO\\LABA10\\TESTPO10\\TESTPO10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,7 +75,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -84,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

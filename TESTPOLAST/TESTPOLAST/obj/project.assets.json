@@ -1850,11 +1850,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\TESTPOLAST\\TESTPOLAST\\TESTPOLAST.csproj",
+      "projectUniqueName": "D:\\Study\\Тестирование ПО\\TEST-PO\\TESTPOLAST\\TESTPOLAST\\TESTPOLAST.csproj",
       "projectName": "TESTPOLAST",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\TESTPOLAST\\TESTPOLAST\\TESTPOLAST.csproj",
+      "projectPath": "D:\\Study\\Тестирование ПО\\TEST-PO\\TESTPOLAST\\TESTPOLAST\\TESTPOLAST.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\TESTPOLAST\\TESTPOLAST\\obj\\",
+      "outputPath": "D:\\Study\\Тестирование ПО\\TEST-PO\\TESTPOLAST\\TESTPOLAST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
